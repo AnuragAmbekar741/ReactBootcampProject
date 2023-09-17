@@ -4,18 +4,24 @@
   "description": "",
   "default": "index.js",
   "scripts": {
-    "start": "parcel src/react-class1.html",
-    "build": "parcel build src/react-class1.html"
+    "start": "parcel src/react-class1.html && parcel watch src/react-class1.html",
+    "build": "parcel build src/react-class1.html && parcel watch src/react-class1.html"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@reduxjs/toolkit": "^1.9.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.7.1",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.4.5",
+    "styled-components": "^5.3.6"
   },
   "devDependencies": {
     "parcel": "^2.8.0",
-    "process": "^0.11.10"
+    "process": "^0.11.10",
+    "tailwindcss": "^3.2.4"
   }
 }

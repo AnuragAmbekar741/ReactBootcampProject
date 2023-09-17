@@ -1,0 +1,27 @@
+ 
+ [   
+    {
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/wcjctudf0wm5ki6ohncl",
+        "title": "MC Donalds",
+        "cuisine": "Biryani, Hyderabadi",
+        "rating": "4 stars"
+    },
+    {
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/geedkuyt9lobwntf2k3o",
+        "title": "Sahara",
+        "cuisine": "Indian, Chinese",
+        "rating": "4 stars"
+    },
+    {
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ys88tnnklqgfhzsftmqq",
+        "title": "Baba Faluda",
+        "cuisine": "Biryani, Hyderabadi",
+        "rating": "4 stars"
+    },
+    {
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/yacdchtguervnbremc5g",
+        "title": "Taj king",
+        "cuisine": "Biryani, Hyderabadi",
+        "rating": "4 stars"
+    }
+]
